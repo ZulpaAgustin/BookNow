@@ -113,9 +113,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YV1KOW1_VQoH_XqkCW4t-13" value="Berhasil" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
-          <mxGeometry x="318" y="229" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="YV1KOW1_VQoH_XqkCW4t-15" value="Punya akun" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="216" y="270" width="80" height="30" as="geometry" />
         </mxCell>
