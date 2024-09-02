@@ -209,18 +209,6 @@
         <mxCell id="ZYDgkExsftRqm_kRtmGp-13" value="+ tambah()&lt;div&gt;+ hapus()&lt;/div&gt;&lt;div&gt;+ubah()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="ZYDgkExsftRqm_kRtmGp-10" vertex="1">
           <mxGeometry y="68" width="160" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="mjdGBxM_89sv1hPxsHCF-1" value="Riwayat Peminjam" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="425" y="380" width="160" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="mjdGBxM_89sv1hPxsHCF-2" value="id : int&lt;div&gt;peminjam : char&lt;/div&gt;&lt;div&gt;tanggal : date&lt;/div&gt;&lt;div&gt;jamMulai : time&lt;/div&gt;&lt;div&gt;jamSelesai : time&lt;/div&gt;&lt;div&gt;status : time&lt;/div&gt;&lt;div&gt;total_bayar : int&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="mjdGBxM_89sv1hPxsHCF-1" vertex="1">
-          <mxGeometry y="26" width="160" height="104" as="geometry" />
-        </mxCell>
-        <mxCell id="mjdGBxM_89sv1hPxsHCF-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="mjdGBxM_89sv1hPxsHCF-1" vertex="1">
-          <mxGeometry y="130" width="160" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="mjdGBxM_89sv1hPxsHCF-4" value="+ tambah()&lt;div&gt;+ ubah()&lt;/div&gt;&lt;div&gt;+ hapus()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="mjdGBxM_89sv1hPxsHCF-1" vertex="1">
-          <mxGeometry y="138" width="160" height="52" as="geometry" />
-        </mxCell>
         <mxCell id="Z6ysUeB1kzu5rS2D5-aH-2" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;startArrow=ERoneToMany;rounded=0;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="220" y="380" as="sourcePoint" />
