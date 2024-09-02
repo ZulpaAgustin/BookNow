@@ -339,7 +339,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="o19l7-khwQ3-_xIctKW1-1" value="Flowchart" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="90" y="20" width="660" height="460" as="geometry" />
+          <mxGeometry x="90" y="20" width="660" height="540" as="geometry" />
         </mxCell>
         <mxCell id="o19l7-khwQ3-_xIctKW1-2" value="Booking" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="385" y="215" width="70" height="70" as="geometry" />
@@ -355,6 +355,9 @@
         </mxCell>
         <mxCell id="o19l7-khwQ3-_xIctKW1-4" value="Login" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="380" y="142" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EmkJpMXJm5NAduPlnf2E-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="o19l7-khwQ3-_xIctKW1-11" target="EmkJpMXJm5NAduPlnf2E-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="o19l7-khwQ3-_xIctKW1-11" value="Riwayat pemijam" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
           <mxGeometry x="367.5" y="380" width="105" height="50" as="geometry" />
@@ -400,6 +403,9 @@
               <mxPoint x="230" y="400" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EmkJpMXJm5NAduPlnf2E-4" value="Selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="380" y="473" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
