@@ -170,7 +170,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ZYDgkExsftRqm_kRtmGp-1" value="Class Diagram" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="ZYDgkExsftRqm_kRtmGp-1" value="Class Diagram - Booking Aula" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="40" y="70" width="710" height="520" as="geometry" />
         </mxCell>
         <mxCell id="ZYDgkExsftRqm_kRtmGp-2" value="Peminjam" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
