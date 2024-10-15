@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17" pages="7">
   <diagram name="Page-1" id="Kv9FdmZ8xvKGbKlHUaAv">
     <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -545,6 +545,91 @@
         <mxCell id="EmkJpMXJm5NAduPlnf2E-4" value="Selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="380" y="473" width="80" height="50" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="flowchartAdmin" id="6hdrsf5R_FxqlOFQ0xai">
+    <mxGraphModel dx="880" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="qmOIOyxSBy5S1lHbwQk8-0" />
+        <mxCell id="qmOIOyxSBy5S1lHbwQk8-1" parent="qmOIOyxSBy5S1lHbwQk8-0" />
+        <mxCell id="qmOIOyxSBy5S1lHbwQk8-2" value="Flowchart Admin" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontStyle=1;fontSize=14;" vertex="1" parent="qmOIOyxSBy5S1lHbwQk8-1">
+          <mxGeometry x="90" y="20" width="660" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="qmOIOyxSBy5S1lHbwQk8-3" value="Booking" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="qmOIOyxSBy5S1lHbwQk8-1">
+          <mxGeometry x="385" y="215" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qmOIOyxSBy5S1lHbwQk8-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qmOIOyxSBy5S1lHbwQk8-1" source="qmOIOyxSBy5S1lHbwQk8-5" target="qmOIOyxSBy5S1lHbwQk8-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qmOIOyxSBy5S1lHbwQk8-5" value="Mulai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="qmOIOyxSBy5S1lHbwQk8-1">
+          <mxGeometry x="380" y="67" width="80" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="qmOIOyxSBy5S1lHbwQk8-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qmOIOyxSBy5S1lHbwQk8-1" source="qmOIOyxSBy5S1lHbwQk8-7" target="qmOIOyxSBy5S1lHbwQk8-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qmOIOyxSBy5S1lHbwQk8-7" value="Login" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="qmOIOyxSBy5S1lHbwQk8-1">
+          <mxGeometry x="380" y="142" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qmOIOyxSBy5S1lHbwQk8-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="qmOIOyxSBy5S1lHbwQk8-1" source="qmOIOyxSBy5S1lHbwQk8-9" target="qmOIOyxSBy5S1lHbwQk8-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qmOIOyxSBy5S1lHbwQk8-9" value="Riwayat pemijam" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="qmOIOyxSBy5S1lHbwQk8-1">
+          <mxGeometry x="367.5" y="380" width="105" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qmOIOyxSBy5S1lHbwQk8-10" value="Pilih paket" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;" vertex="1" parent="qmOIOyxSBy5S1lHbwQk8-1">
+          <mxGeometry x="180" y="293" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qmOIOyxSBy5S1lHbwQk8-11" value="Form booking" style="verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;size=0.23;arcSize=10;flipV=1;labelPosition=center;align=center;" vertex="1" parent="qmOIOyxSBy5S1lHbwQk8-1">
+          <mxGeometry x="540" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qmOIOyxSBy5S1lHbwQk8-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="qmOIOyxSBy5S1lHbwQk8-1" source="qmOIOyxSBy5S1lHbwQk8-3" target="qmOIOyxSBy5S1lHbwQk8-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="270" as="sourcePoint" />
+            <mxPoint x="440" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qmOIOyxSBy5S1lHbwQk8-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="qmOIOyxSBy5S1lHbwQk8-1" source="qmOIOyxSBy5S1lHbwQk8-3" target="qmOIOyxSBy5S1lHbwQk8-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="270" as="sourcePoint" />
+            <mxPoint x="440" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qmOIOyxSBy5S1lHbwQk8-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="qmOIOyxSBy5S1lHbwQk8-1" source="qmOIOyxSBy5S1lHbwQk8-11" target="qmOIOyxSBy5S1lHbwQk8-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="270" as="sourcePoint" />
+            <mxPoint x="440" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="590" y="405" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qmOIOyxSBy5S1lHbwQk8-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="qmOIOyxSBy5S1lHbwQk8-1" source="qmOIOyxSBy5S1lHbwQk8-10" target="qmOIOyxSBy5S1lHbwQk8-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="270" as="sourcePoint" />
+            <mxPoint x="440" y="220" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qmOIOyxSBy5S1lHbwQk8-16" value="Selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="qmOIOyxSBy5S1lHbwQk8-1">
+          <mxGeometry x="380" y="473" width="80" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Wekz4_tIz-o7Y_oI2XDe" name="Page-6">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
